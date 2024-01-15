@@ -1,4 +1,4 @@
-package dev.Pokedex;
+package Barthmalemew.dev.Pokedex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
