@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="850285b0-9c5e-4c46-be65-79a5df18f00f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bank/src/ECUBan/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/ECUBan/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/ECUBan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/game/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/game/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/Bishop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/pieces/Rook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokedex/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokedex/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/TicTacToe.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bMjlouYx0wsLqi8AanMNxyNd52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-a73289cf" />
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-220112af" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="850285b0-9c5e-4c46-be65-79a5df18f00f" name="Changes" comment="" />
+      <created>1706031995281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706031995281</updated>
+      <workItem from="1706031996281" duration="206000" />
+      <workItem from="1706032983352" duration="388000" />
+      <workItem from="1706033398934" duration="278000" />
+      <workItem from="1706033712441" duration="1567000" />
+      <workItem from="1706123001330" duration="270000" />
+      <workItem from="1706199258496" duration="16000" />
+      <workItem from="1706293800923" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

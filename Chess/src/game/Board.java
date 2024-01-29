@@ -1,4 +1,4 @@
-package Chess;
+package game;
 
 
 public class Board {

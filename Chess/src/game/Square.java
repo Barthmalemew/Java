@@ -1,6 +1,6 @@
 package game;
 
-public class Point {
+public class Square {
 
 
 }
