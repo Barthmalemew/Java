@@ -1,2 +1,4 @@
-package ECUBan;public class Bank {
+package ECUBan;
+
+public class Bank {
 }
