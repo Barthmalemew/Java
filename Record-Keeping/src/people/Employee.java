@@ -33,4 +33,9 @@ public class Employee extends Person {
         System.out.println("Department: " + this.dept);
         System.out.println("Salary: " + this.salary);
     }
+
+    public void getDisplay(String Greetings){
+        System.out.println(Greetings);
+        getDisplay();
+    }
 }
