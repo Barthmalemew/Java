@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
-        int op = 0;
+        int op;
         boolean run = true;
 
         Bank bank = new Bank();

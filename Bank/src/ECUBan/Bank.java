@@ -46,7 +46,7 @@ public class Bank {
         String[] nameList = {"Kailee", "Nate", "David", "Sofia", "Mao", "Matt", "Kevin", "Jimmy", "Jennifer", "Bobby", "Gopal"};
 
         for(int i = 0; i < rand.nextInt(10) + 4; i++) {
-            List.add(new Account("0" + i, nameList[rand.nextInt(nameList.length)]));
+            List.add(new Account("0" + i, nameList[rand.nextInt(nameList.length)],Math.floor((rand.nextDouble(1000)) * 100) / 100.0));
         }
     }
 

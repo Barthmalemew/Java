@@ -1,16 +1,16 @@
 package people;
 
-class Emloyee extends Person {
+public class Employee extends Person {
     String dept;
     double salary;
 
-    public Emloyee() {
+    public Employee() {
         super();
         dept = "NA";
         salary = 0;
     }
 
-    public Emloyee(String name, String BannerID, String dept, double salary){
+    public Employee(String name, String BannerID, String dept, double salary){
         super(name, BannerID);
         this.dept = dept;
         this.salary = salary;

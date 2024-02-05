@@ -4,11 +4,18 @@ public class Account{
     private String ID;
     private String name;
     private double balance;
-    public Account(String ID, String name)
+
+    /**
+     *
+     * @param ID ID for customer
+     * @param name name for customer
+     * @param balance balance for customer
+     */
+    public Account(String ID, String name, Double balance)
     {
         this.ID = ID;
         this.name = name;
-        this.balance = 0.0;
+        this.balance = balance;
 
         //calls add account whenever constructor is generated (when new object is made)
         Bank.addAccount();

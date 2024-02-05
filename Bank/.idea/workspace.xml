@@ -4,102 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d60a103-0384-4164-b8b7-b5da29da1372" name="Changes" comment="">
+    <list default="true" id="889002ba-85ce-47e8-ab0f-facf1e7e9da0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ECUBan/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ECUBan/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ECUBan/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ECUBan/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BjarnQuoter/src/Quote/ReadFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/game/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/game/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/game/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/game/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/Bishop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/King.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/Pawn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/Piece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/Queen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/src/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/src/pieces/Rook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CirclePractice/src/ooppractice/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CirclePractice/src/ooppractice/Display.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CirclePractice/src/ooppractice/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CirclePractice/src/ooppractice/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pokedex/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokedex/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/TicTacToe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/out/production/TicTacToe/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/out/production/TicTacToe/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/out/production/TicTacToe/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/out/production/TicTacToe/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/out/production/TicTacToe/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/out/production/TicTacToe/TicTacToe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2bSOGI234DuBH9frqAYSwaFK1m0" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2bdXSPnk2nNOxM5iVgyDGCfdQ1Y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/barthmalemew/Projects/Java/Bank&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Bank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Bank" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,45 +58,23 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d60a103-0384-4164-b8b7-b5da29da1372" name="Changes" comment="" />
-      <created>1706204916435</created>
+      <changelist id="889002ba-85ce-47e8-ab0f-facf1e7e9da0" name="Changes" comment="" />
+      <created>1706545928933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706204916435</updated>
-      <workItem from="1706204917758" duration="3134000" />
-      <workItem from="1706211803463" duration="145000" />
-      <workItem from="1706211950267" duration="2855000" />
-      <workItem from="1706277804409" duration="2633000" />
-      <workItem from="1706280917191" duration="4027000" />
-      <workItem from="1706291720819" duration="375000" />
-      <workItem from="1706423332767" duration="13000" />
-      <workItem from="1706424868791" duration="672000" />
-      <workItem from="1706428948742" duration="626000" />
-      <workItem from="1706536031100" duration="441000" />
-      <workItem from="1706536474574" duration="10000" />
-      <workItem from="1706536498915" duration="9000" />
-      <workItem from="1706536534353" duration="28000" />
-      <workItem from="1706536563850" duration="469000" />
-      <workItem from="1706537035081" duration="64000" />
+      <updated>1706545928933</updated>
+      <workItem from="1706545930251" duration="99000" />
+      <workItem from="1706546030514" duration="18000" />
+      <workItem from="1706559869645" duration="443000" />
+      <workItem from="1706580066978" duration="9000" />
+      <workItem from="1706638536995" duration="1887000" />
+      <workItem from="1706722213986" duration="1199000" />
+      <workItem from="1706734762457" duration="1000" />
+      <workItem from="1706808630351" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ECUBan/Bank.java</url>
-          <line>57</line>
-          <properties class="ECUBan.Bank">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
