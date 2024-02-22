@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37507dec-f3b7-4570-98dc-e9efee6a3e4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Pokedex/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokedex/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Record-Keeping/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Record-Keeping/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Record-Keeping/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Record-Keeping/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Record-Keeping/src/people/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Record-Keeping/src/people/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignments/src/Assignment1/SelectionSortTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignments/src/Assignment1/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +50,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,6 +70,7 @@
       <workItem from="1705673407119" duration="845000" />
       <workItem from="1705686928903" duration="722000" />
       <workItem from="1705687979330" duration="1948000" />
+      <workItem from="1707242980007" duration="3000" />
     </task>
     <servers />
   </component>

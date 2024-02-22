@@ -2,7 +2,17 @@ package ooppractice;
 
 import java.util.Scanner;
 
-class Rectangle extends Display {
+class Rectangle extends Shape {
+
+    public Rectangle(){
+        super();
+        length = 1;
+        height = 1;
+    }
+
+    private double height;
+    private double length;
+
     Scanner scr = new Scanner(System.in);
 
     public void setColor() {
@@ -22,7 +32,14 @@ class Rectangle extends Display {
 
     public double getArea() {
         area = (length * height);
-        System.out.println("This is the area: " + area);
         return area;
+    }
+
+    public void addArea(Rectangle rectangle2) {
+        area += rectangle2.getArea();
+    }
+    public double getParameter(){
+        parameter = 2 * (height + length);
+        return parameter;
     }
 }

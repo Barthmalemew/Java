@@ -4,7 +4,14 @@ import java.util.Scanner;
 
 import static java.lang.Math.sqrt;
 
-class Circle extends Display {
+class Circle extends Shape {
+
+    public Circle(){
+        super();
+        radius = 0;
+    }
+
+    private double radius;
 
     Scanner scr = new Scanner(System.in);
 
@@ -20,7 +27,6 @@ class Circle extends Display {
 
     public double getArea() {
         area = (3.14 * (radius * radius));
-        System.out.println("This is the area: " + area);
         return area;
     }
 

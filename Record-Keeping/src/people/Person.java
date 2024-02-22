@@ -33,6 +33,6 @@ public class Person {
 
     public void getDisplay(){
         System.out.println("Name: " + name);
-        System.out.println("BannerID: XXXXXX" + BannerID.substring(5 , BannerID.length() - 1));
+        System.out.println("BannerID: XXXXXX" + BannerID.substring(6 , BannerID.length()));
     }
 }

@@ -70,7 +70,7 @@ class PersonAddress{
     }
 
     public void displayInfo(){
-        System.out.printf("\n%s\n%s\n%s\n$%s\n", this.firstName, this.lastName, this.email, this.phone);
+        System.out.printf("\n%s\n%s\n%s\n$%s\n", getFirstName(), getLastName(), getEmail(), getPhone());
     }
 
     public String setEmail(String inputEmail){
@@ -81,6 +81,22 @@ class PersonAddress{
     public String setPhone(String inputPhone){
         System.out.println("Enter phone number: ");
         return this.phone = inputPhone;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getPhone() {
+        return phone;
     }
 
     public void isEqual(PersonAddress person){
