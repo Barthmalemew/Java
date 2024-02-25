@@ -4,20 +4,21 @@ import java.util.*;
 public class IOadd {
     public static void main(String[] arg){
         try{
-            File directory = new File("../File_IO_Add/files/");
-            File[] listOfFiles = directory.listFiles();
-            File output = new File("Script.txt");
-            PrintWriter Print = new PrintWriter(output);
 
-            for(File file : listOfFiles) {
-                int i = 1;
-                Scanner scan = new Scanner(file);
-                while (scan.hasNextLine()) {
-                    String s = i + ". " + scan.nextLine() + "\n";
-                    Print.write(s);
-                    i++;
+            int j = 1;
+            int i;
+
+            for(i = 1; i <= 3; i++) {
+                Scanner sc1 = new Scanner(new File("files/File" + i + ".txt"));
+                PrintWriter print = new PrintWriter(new FileOutputStream("Script.txt", true));
+
+                while (sc1.hasNextLine()) {
+                    String s = j + ". " + sc1.nextLine();
+                    print.println(s);
+                    j++;
                 }
-                Print.close();
+                print.close();
+                sc1.close();
             }
 
         }catch (FileNotFoundException e){
