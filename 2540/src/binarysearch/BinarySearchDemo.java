@@ -23,6 +23,7 @@ public class BinarySearchDemo {
 		for(int i: arr) {
 			System.out.print(i + " ");
 		}
+		
 		System.out.println();
 		
 		demo.sort(arr, 0, arr.length - 1);

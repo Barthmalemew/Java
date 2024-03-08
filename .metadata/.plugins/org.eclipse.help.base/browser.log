@@ -3,3 +3,8 @@ Jan 12, 2024 14:35:20.39 NEW SESSION
 Jan 12, 2024 14:35:20.39 which: no mozilla in (/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin)
 Jan 12, 2024 14:35:20.39 which: no netscape in (/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin)
 Jan 12, 2024 14:35:20.40 /usr/bin/firefox
+
+Mar 07, 2024 19:04:04.96 NEW SESSION
+Mar 07, 2024 19:04:04.97 which: no mozilla in (/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin)
+Mar 07, 2024 19:04:05.01 which: no netscape in (/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin)
+Mar 07, 2024 19:04:05.05 /usr/bin/firefox

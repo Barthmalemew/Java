@@ -36,6 +36,7 @@ org.eclipse.egit.ui.IgnoredResourceForegroundColor=166,166,166
 org.eclipse.egit.ui.UncommittedChangeBackgroundColor=28,28,28
 org.eclipse.egit.ui.UncommittedChangeForegroundColor=219,219,219
 org.eclipse.jdt.ui.ColoredLabels.inherited=143,143,191
+org.eclipse.jdt.ui.ColoredLabels.match_highlight=79,79,79
 org.eclipse.jdt.ui.ColoredLabels.writeaccess_highlight=255,128,128
 org.eclipse.jdt.ui.Javadoc.backgroundColor=51,51,51
 org.eclipse.jdt.ui.Javadoc.foregroundColor=237,237,237
